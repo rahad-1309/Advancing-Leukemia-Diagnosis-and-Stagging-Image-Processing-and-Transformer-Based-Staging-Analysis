@@ -1,0 +1,2 @@
+# Advancing-Leukemia-Diagnosis-and-Stagging-Image-Processing-and-Transformer-Based-Staging-Analysis
+Acute Lymphoblastic Leukemia (ALL) is a type of cancer that affects white blood cells, and early diagnosis and accurate staging are crucial for effective treatment. By integrating image processing techniques with transformer-based models, this project aims to improve the precision and reliability of leukemia diagnosis.
